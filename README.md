@@ -11,4 +11,4 @@ Portanto, neste projeto, o desafio é a construa um modelo de Machine Learning q
 
 Esse é um problema de classificação no qual classifica clientes em (y=1) se irá sair ou (y=0) quando não, para isso usando por base diversos atributos.
 
-### Link do notebook
+### [Link do notebook]('https://github.com/EloizioHMD/br-classification-project/blob/master/classification-project-br.ipynb')
